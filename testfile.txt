@@ -1,0 +1,5 @@
+This file is created using Dos command prompt
+dir
+
+^Z
+
